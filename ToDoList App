@@ -1,0 +1,108 @@
+Skip to content
+Product
+Solutions
+Open Source
+Pricing
+
+Search or jump to...
+Sign in
+Sign up
+mounii86
+/
+BrainBlastt
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Commit
+Create To Do List App
+ main
+@mounii86
+mounii86 committed 7 minutes ago 
+1 parent e054903
+commit 75f47d2
+Showing 1 changed file with 77 additions and 0 deletions.
+ 77 changes: 77 additions & 0 deletions77  
+To Do List App
+@@ -0,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="401dp"
+            android:layout_height="64dp"
+            android:hint="Task"
+            android:textSize="20dp" />
+    </RelativeLayout>
+</RelativeLayout><?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="401dp"
+            android:layout_height="64dp"
+            android:hint="Task"
+            android:textSize="20dp" />
+    </RelativeLayout>
+</RelativeLayout><?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="401dp"
+            android:layout_height="64dp"
+            android:hint="Task"
+            android:textSize="20dp" />
+    </RelativeLayout>
+</RelativeLayout<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="401dp"
+            android:layout_height="64dp"
+            android:hint="Task"
+            android:textSize="20dp" />
+    </RelativeLayout>
+</RelativeLayout>
